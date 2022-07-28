@@ -1,0 +1,491 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Aeternity Foundation - Supporting Open Source Blockchain Technology</title>
+        <meta name="description" content="The æternity crypto foundation is a nonprofit organization established in the Principality of Liechtenstein. The charitable foundation supports open source development of the aeternity protocol and its surrounding ecosystems.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- CSS Dependencies -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/shards.min.css?v=3.0.0">
+        <link rel="stylesheet" href="css/shards-extras.min.css?version=3.0.0">
+    </head>
+    <body class="shards-landing-page--1">
+      <!-- Welcome Section -->
+      <div class="welcome d-flex justify-content-center flex-column">
+        <div class="container">
+          <!-- Navigation -->
+          <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
+            <a class="navbar-brand" href="#">
+              <img src="images/agency-landing/aeternityfoundationlogo.png" height="70px" class="mr-2" alt="Aeternity Foundation logo">
+              
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Grants</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Contact us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Apply Now</a>
+                </li>
+              </ul>
+
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="https://twitter.com/DesignRevision"><i class="fa fa-twitter"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.facebook.com/designrevision"><i class="fa fa-facebook"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://github.com/designrevision"><i class="fa fa-github"></i></a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="https://github.com/designrevision"><i class="fa fa-linkedin"></i></a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="https://github.com/designrevision"><i class="fa fa-telegram"></i></a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="https://github.com/designrevision"><i class="fa fa-youtube"></i></a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="https://github.com/designrevision"><i class="fa fa-comment"></i></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          <!-- / Navigation --> 
+        </div> <!-- .container -->
+
+        <!-- Inner Wrapper -->
+        <div class="inner-wrapper mt-auto mb-auto container">
+          <div class="row">
+            <div class="col-md-7">
+                <h1 class="welcome-heading display-4 text-white">Supporting Open Source Blockchain Technology</h1>
+                <p class="text-white">The æternity Foundation is a non-profit organization established in the Principality of Liechtenstein. The Foundation brings together all the necessary resources and infrastructure to ensure a stable environment and thriving open source ecosystem around the æternity blockchain. The organization is committed to promoting technical excellence and user-friendly
+applications as well as supporting projects built on the æternity blockchain.</p>
+                <a href="#our-services" class="btn btn-lg btn-outline-white btn-pill align-self-center">Apply Now</a>
+            </div>
+          </div>
+        </div>
+        <!-- / Inner Wrapper -->
+      </div>
+      <!-- / Welcome Section -->
+
+
+      <!-- Our Services Section -->
+      <div id="our-services" class="our-services section py-4">
+        <h3 class="section-title text-center my-5">Core and Essentials Development Domains</h3>
+
+        <!-- Features -->
+        <div class="features py-4 mb-4">
+          <div class="container">
+		  <p class="text-black">The 7 domains below are current areas of focus for the core open source development effort, listed in order of approximate funding priority. The order may be adjusted as development progresses and priorities evolve.</p>
+            <div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-server"></i></div>
+                <div class="px-4">
+                    <h5>Protocol Maintenance</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-code"></i></div>
+                <div class="px-4">
+                    <h5>Protocol Development</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-font"></i></div>
+                <div class="px-4">
+                    <h5>SDKs</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-credit-card-alt"></i></div>
+                <div class="px-4">
+                    <h5>Wallets and Interfaces</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+            </div>
+			<div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-window-maximize"></i></div>
+                <div class="px-4">
+                    <h5>æpps and Integrations</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-barcode"></i></div>
+                <div class="px-4">
+                    <h5>Middleware Backend API</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+            </div>
+			<div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-wrench"></i></div>
+                <div class="px-4">
+                    <h5>Dev-Tools</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- / Features -->
+      </div>
+      <!-- / Our Services Section -->
+
+
+<div class="footer-cta bg-dark" >
+      <div class="container my-5">
+        <div class="py-5">
+          <div class="text-center">
+            <h1></h1>
+			<br></br>
+			<br></br>
+			<img src="images/agency-landing/aeternityfoundationlogo.png" height="160px" class="mr-2" alt="Aeternity Foundation logo">
+			<br></br>
+			<br></br>
+			<br></br>
+            <h2 class="text-white">Supported Projects</h2>
+            <p class="text-muted col-lg-8 col-md-10 ml-auto mr-auto">The Aeternity Foundation exists at the intersection of technology and philanthropy; a think tank for the digital future and a force for good, leveraging the efficiency and transparency of cryptocurrency with real projects and real results. The projects below (grantees) share our values and thirst for innovation.</p>
+          </div>
+
+
+        </div>
+      </div>
+	  <iframe src="grantgrid/index.html" border="none" scrolling="no" style=" width: 100%; height: 1080px; border:none; margin-top: -100px; overflow: hidden;"></iframe>
+    </div>
+
+
+
+
+
+
+
+ <!-- / Our Blog Section -->
+
+
+        <!-- 
+        <div id="icon-packs" class="container mb-5">
+          <div class="section-title col-lg-8 col-md-10 ml-auto mr-auto mb-5">
+            <h2 class="text-center mb-4">Grants and bounties</h2>
+            <p class="text-center">Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam lero. Nullam  uctus purus.</p>
+          </div>
+        </div>
+
+        <div class="icons-example clearfix mb-5">
+          <div class="icons-example-wrapper material-icons col-md-6 float-left">
+            <div class="material-icons col-lg-3 col-md-3 col-sm-12 d-table text-center ml-auto mr-auto py-5">
+              <img class="mb-4" src="images/demo/material-icons.svg" alt="Shards supports the Material Icons pack by default.">
+              <h2 class="text-light mb-2">Grants</h2>
+              <h5 class="text-muted mb-0">Over 80+ Grants</h5>
+            </div>
+          </div>
+
+          <div class="icons-example-wrapper font-awesome col-md-6 float-left">
+            <div class="material-icons col-lg-3 col-md-3 col-sm-12 d-table text-center mr-auto ml-auto py-5">
+              <img class="mb-4" src="images/demo/fontawesome-icons.svg" alt="Shards supports the FontAwesome Icons pack by default.">
+              <h2 class="text-light mb-2">Bounties</h2>
+              <h5 class="text-muted mb-0">Over 120+ Bounties</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+Icon Packs -->
+
+
+
+     <!-- Our Services Section -->
+      <div id="our-services" class="our-services section py-4">
+        <h3 class="section-title text-center my-5">Ecosystem Grant Program</h3>
+
+        <!-- Features -->
+        <div class="features py-4 mb-4">
+          <div class="container">
+		  <center>
+		  <p class="text-black">To succeed long term, the æternity Foundation is dedicated to enable community-driven innovation to benefit people around the world, and sustaining open source blockchain technology and its development.</p>
+		  <p class="text-black"><b>The Foundation invites individuals, teams and non-commercial projects to apply
+for a grant or donation.</b> <br></br><br></br> <br></br> <center><h4>Funding Categories</h4></center><br></br> The main focus of support is technical advancement of the æternity open- source blockchain protocol. Additionally, the foundation supports:</p>
+</center>
+            <div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-code"></i></div>
+                <div class="px-4">
+                    <h5>Open Source Development</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-flask"></i></div>
+                <div class="px-4">
+                    <h5>Research and Education Activities</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-users"></i></div>
+                <div class="px-4">
+                    <h5>Community Growth oriented activities</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-paint-brush"></i></div>
+                <div class="px-4">
+                    <h5>Culture and Art</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+            </div>
+			<div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-shield"></i></div>
+                <div class="px-4">
+                    <h5>Governance, DAO</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-star"></i></div>
+                <div class="px-4">
+                    <h5>NFT</h5>
+                    <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                </div>
+              </div>
+            </div>
+			
+          </div>
+        </div>
+        <!-- / Features -->
+      </div>
+      <!-- / Our Services Section -->
+
+
+
+      <!-- Our Blog Section -->
+      <div class="blog section section-invert py-4">
+        <h3 class="section-title text-center m-5">Latest News</h3>
+
+        <div class="container">
+          <div class="py-4">
+            <div class="row">
+              <div class="card-deck">
+              <div class="col-md-12 col-lg-4">
+                <div class="card mb-4">
+                  <img class="card-img-top" src="images/common/card-1.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h4 class="card-title">Find our new website on Github</h4>
+                    <p class="card-text">He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <a class="btn btn-primary btn-pill" href="#">Visit &rarr;</a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-12 col-lg-4">
+                <div class="card mb-4">
+                  <img class="card-img-top" src="images/common/card-3.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h4 class="card-title">Superhero NFT trading cards</h4>
+                    <p class="card-text">He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <a class="btn btn-primary btn-pill" href="#">Visit &rarr;</a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-12 col-lg-4">
+                <div class="card mb-4">
+                  <img class="card-img-top" src="images/common/card-2.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h4 class="card-title">Hyperchains on Testnet try it now</h4>
+                    <p class="card-text">He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <a class="btn btn-primary btn-pill" href="#">Visit &rarr;</a>
+                  </div>
+                </div>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+	  
+	  
+	  
+	  
+	  <div id="documentation" class="bg-black">
+      <div class="section-title container ml-auto mr-auto py-5">
+        <div class="col-lg-8 col-md-10 ml-auto mr-auto py-5">
+          <h1 class="mb-2 text-center"></h1>
+          <h3 class="mb-4 text-center">Call for Proposals</h3>
+          <p class="text-center">
+
+<b>Who can apply?</b> Individuals, teams and non-commercial projects.
+<br></br>
+<b>When the call is open?</b>
+Always! 
+<br></br>
+<b>How to apply?</b>
+To apply, please create an account on the official æternity Forum. https://forum.aeternity.com
+<br></br>
+Please, prepare your submission according to these required application guidelines.
+<br></br>
+Additional resources are available here.
+https://forum.aeternity.com/c/li-foundation/grant/81 
+</p>
+          <a class="d-table ml-auto mr-auto" href="https://designrevision.com/docs/shards">
+            <button class="btn btn-pill btn-outline-primary">
+              <i class="fa fa-book mr-1"></i>Guidelines</button> &nbsp;
+			  
+			 <button class="btn btn-pill btn-outline-primary">
+              <i class="fa fa-book mr-1"></i>Apply Now</button>  
+
+			  
+          </a>
+        </div>
+      </div>
+    </div>
+	  
+	  
+	  
+	  
+      <!-- / Our Blog Section -->
+
+
+      <!-- 
+      <div class="testimonials section py-4">
+          <h3 class="section-title text-center m-5">Our Team</h3>
+          <div class="container py-5">
+            <div class="row">
+                <div class="col-md-4 testimonial text-center">
+                    <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
+                        <img src="images/common/avatar-1.jpeg" class="w-100" alt="Testimonial Avatar" />
+                    </div>
+                    <h5 class="mb-1">Osbourne Tranter</h5>
+                    <span class="text-muted d-block mb-2">CEO at Megacorp</span>
+                    <p>Vivamus quis ex mattis, gravida erat a, iaculis urna. Proin ac eleifend tortor. Nunc in augue eget enim venenatis viverra.</p>
+                </div>
+
+                <div class="col-md-4 testimonial text-center">
+                    <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
+                        <img src="images/common/avatar-2.jpeg" class="w-100" alt="Testimonial Avatar" />
+                    </div>
+                    <h5 class="mb-1">Darrin Ollie</h5>
+                    <span class="text-muted d-block mb-2">CEO at Megacorp</span>
+                    <p>Nullam eu ligula facilisis, commodo velit non, vulputate dolor. Aenean congue euismod vestibulum.</p>
+                </div>
+
+                <div class="col-md-4 testimonial text-center">
+                    <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
+                        <img src="images/common/avatar-3.jpeg" class="w-100" alt="Testimonial Avatar" />
+                    </div>
+                    <h5 class="mb-1">Quinton Bruce</h5>
+                    <span class="text-muted d-block mb-2">CEO at Megacorp</span>
+                    <p> Aenean imperdiet ultrices tortor id convallis. Donec id metus magna. Morbi pretium odio faucibus blandit gravida.</p>
+                </div>
+            </div>
+          </div>
+      </div>
+      <!-- / Testimonials Section -->
+
+      <!-- Contact 
+      <div class="contact section-invert py-4">
+        <h3 class="section-title text-center m-5">Contact Us</h3>
+        <div class="container py-4">
+          <div class="row justify-content-md-center px-4">
+            <div class="contact-form col-sm-12 col-md-10 col-lg-7 p-4 mb-4 card">
+              <form>
+                <div class="row">
+                  <div class="col-md-6 col-sm-12">
+                    <div class="form-group">
+                      <label for="contactFormFullName">Full Name</label>
+                      <input type="email" class="form-control" id="contactFormFullName" placeholder="Enter your full name">
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-12">
+                    <div class="form-group">
+                      <label for="contactFormEmail">Email address</label>
+                      <input type="email" class="form-control" id="contactFormEmail" placeholder="Enter your email address">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col">
+                    <div class="form-group">
+                        <label for="exampleInputMessage1">Message</label>
+                        <textarea id="exampleInputMessage1" class="form-control mb-4" rows="10" placeholder="Enter your message..." name="message"></textarea>
+                    </div>
+                  </div>
+                </div>
+                <input class="btn btn-primary btn-pill d-flex ml-auto mr-auto" type="submit" value="Send Your Message">
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- / Contact Section -->
+
+      <!-- Footer Section -->
+      <footer>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <div class="container">
+            <a class="navbar-brand" href="#"></a><img src="images/agency-landing/aeternityfoundationlogo.png" height="100px" class="mr-2" alt="Aeternity Foundation logo">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Contact Us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Apply Now</a>
+                </li>
+              </ul>
+			  
+            </div>
+
+          </div>
+        </nav>
+      </footer>
+      <!-- / Footer Section -->
+
+      <!-- JavaScript Dependencies -->
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+        crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>

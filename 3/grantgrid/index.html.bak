@@ -12,7 +12,7 @@
 
   <div class="grid-block">
     <div class="tile">
-      <a class="tile-link" href="#">
+      <a class="tile-link" href="https://hc-alpha.aepps.com/">
         <img class="tile-img tile-img3" src="images/hyperchains.jpeg" alt="Image">
       </a>
     </div>
@@ -20,7 +20,7 @@
 
   <div class="grid-block">
     <div class="tile">
-      <a class="tile-link" href="#">
+      <a class="tile-link" href="https://techtek.github.io/Superherocards/alphasetcardlist/index.html">
 		<img class="tile-img tile-img3" src="images/superheronft.png" alt="Image">
       </a>
     </div>
@@ -28,15 +28,15 @@
 
   <div class="grid-block">
     <div class="tile">
-      <a class="tile-link" href="#">
-        <img class="tile-img tile-img3" src="images/graffiti.png" alt="Image">
+      <a class="tile-link" href="https://www.aeternity-foundation.org/">
+        <img class="tile-img tile-img3" src="images/foundationwebsite.png" alt="Image">
       </a>
     </div>
   </div>
 
   <div class="grid-block">
     <div class="tile">
-      <a class="tile-link" href="#">
+      <a class="tile-link" href="https://www.bloxstaking.com/">
 		<img class="tile-img tile-img3" src="images/blox.png" alt="Image">
       </a>
     </div>
@@ -44,7 +44,7 @@
 
   <div class="grid-block">
     <div class="tile">
-      <a class="tile-link" href="#">
+      <a class="tile-link" href="https://www.coinfabrik.com/">
 		<img class="tile-img tile-img3" src="images/coinfabrik.png" alt="Image">
       </a>
     </div>
@@ -52,8 +52,8 @@
 
   <div class="grid-block">
     <div class="tile">
-      <a class="tile-link" href="#">
-		<img class="tile-img tile-img3" src="images/foundationwebsite.png" alt="Image">
+      <a class="tile-link" href="https://graffiti.aeternity.com/#/landingpage">
+		<img class="tile-img tile-img3" src="images/graffiti.png" alt="Image">
       </a>
     </div>
   </div>
